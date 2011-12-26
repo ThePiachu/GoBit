@@ -1,4 +1,9 @@
 This is a work-in-progress implementation of Bitcoin in Google Go.
 
+	Package description:
+-mymath		- package for various math operations and type conversions
+-bitelliptic	- package for handling Koblitz ECDSA curves
+-bitecdsa	- package for handling ECDSA algorithms that use the Koblitz curves
+
 	Code progress:
 -Alpha version, some functionality still missing.
